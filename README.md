@@ -5,14 +5,14 @@
 ### run the experiment
 * ``sh run.sh``
 
-  Run this file in the termial to acces to the recursive algorithm of BlackJack game
+  Run this command in the termial to acces to the recursive algorithm of BlackJack game
 
 
 
 * ``sh run_rlt.sh``
 
-  Run this file in the termial for top-down approach DP problem. 
+  Run this command in the termial for top-down approach DP problem. 
 
 * ``sh run_rlb.sh``
 
-  Run this file in the termial for Bottom-up approach DP problem.
+  Run this command in the termial for Bottom-up approach DP problem.
